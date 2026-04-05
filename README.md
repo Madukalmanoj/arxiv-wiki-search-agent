@@ -29,8 +29,8 @@ START → tool_calling_llm → [tools if needed] → tool_calling_llm → END
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/langgraph-research-agent.git
-cd langgraph-research-agent
+git clone https://github.com/Madukalmanoj/arxiv-wiki-search-agent.git
+cd arxiv-wiki-search-agent
 ```
 
 ### 2. Install dependencies
