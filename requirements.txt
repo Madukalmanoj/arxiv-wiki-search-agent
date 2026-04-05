@@ -1,0 +1,10 @@
+langchain-community
+langchain-core
+langchain-groq
+langgraph
+arxiv
+wikipedia
+tavily-python
+python-dotenv
+ipython
+typing-extensions
