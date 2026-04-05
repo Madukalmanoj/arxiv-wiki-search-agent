@@ -106,7 +106,7 @@ langgraph-research-agent/
 
 - [LangGraph](https://github.com/langchain-ai/langgraph) — Agent graph orchestration
 - [LangChain](https://github.com/langchain-ai/langchain) — Tool integrations
-- [Groq](https://groq.com) — Ultra-fast LLM inference (`llama-3.3-70b-versatile`)
+- [Groq](https://groq.com) — Ultra-fast LLM inference (`qwen/qwen3-32b`)
 - [Tavily](https://tavily.com) — Real-time web search API
 
 ---
